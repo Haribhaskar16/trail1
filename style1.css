@@ -1,0 +1,108 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.exfour{
+    background-color:chartreuse;
+    color:white;
+    padding-top:20px;
+    padding-bottom: 20px;
+    text-align: center;
+    border-style: dashed;
+}
+.exfive{
+    margin-top: 30px;
+    width:500px;
+    border-style:solid;
+    border-color:black;
+    border-width:3px;
+    height:30px;
+    margin-left:35%;
+    background-color:rgb(255, 255, 255);
+}
+::placeholder{
+    padding-left: 5px;
+}
+form{
+    border-style:double;
+    border-width:5px;
+    border-color:black;
+    display:inline-block;
+    width:400px;
+    justify-content: center;
+    margin-left: 39%;
+    margin-top: 50px;
+    height:400px;
+    margin-bottom: 20px;
+}
+.exeight{
+    text-align: center;
+    color:white;
+    background-color: black;
+    margin-top: 5px;
+}
+label{
+    margin-left: 50px;
+}
+input{
+    margin-left: 80px;
+}
+select{
+    margin-left: 120px ;
+}
+.ex11{
+    border-color: grey;
+    border-style:solid;
+    border-width:3px;
+    color:white;
+    background-color: black;
+    margin-right: 60px;
+    height:40px;
+    width:60px;
+}
+.ex11:hover{
+    cursor: pointer;
+    background-color: chartreuse;
+    color:white;
+}
+.ex12{
+    margin-left: 30px;
+    border-color: grey;
+    border-style:solid;
+    border-width:3px;
+    color:white;
+    background-color: black;
+    margin-right: 60px;
+    height:40px;
+    width:60px;    
+}
+.ex13{
+    color:white;
+    text-decoration-line: none;
+}
+.ex13:hover{
+    cursor: pointer;
+    background-color: chartreuse;
+    color:white;
+}
+.ex18{
+    color:rgb(10, 10, 125);
+    display:inline-block;
+}
+.ex19{
+    color:white;
+    display:inline-block;
+}
+.ex20{
+    text-align: left;
+    padding-left: 10px;
+}
+footer{
+    background-color:chartreuse ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-color: white;
+    border-style: dashed;
+    text-align: center;
+}
+
